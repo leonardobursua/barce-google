@@ -1,0 +1,7 @@
+{
+  "name": "Barcé App",
+  "description": "Comprehensive clinic management platform featuring role-based access, digital consent signatures, real-time agenda, and analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
